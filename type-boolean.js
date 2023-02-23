@@ -3,4 +3,4 @@ const segundoNumero = 5;
 
 console.log(primeiroNumero === segundoNumero);
 
-olá
+
