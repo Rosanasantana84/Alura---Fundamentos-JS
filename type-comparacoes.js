@@ -9,3 +9,11 @@ console.log(numero === texto)
 
 console.log(typeof numero)
 console.log(typeof texto)
+
+// == só compara valor
+// === compara valor e tipo dado
+
+// conversão explícita
+
+Number()
+String()
